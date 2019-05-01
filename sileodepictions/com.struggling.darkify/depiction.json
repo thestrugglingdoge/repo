@@ -7,14 +7,28 @@
 			"tabname": "Details",
 			"views": [
 				{
-					"class": "DepictionScreenshotsView"
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 275.41333333333336}",
 					"screenshots": [
 						{
-							"https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png"
+							"accessibilityText": "Showcase",
+							"url": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/Banners/Darkify.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/Banners/Darkify.png"
 						}
 					],
-					"itemCornerRadius": 2
-					"itemSize": {1920,1080}
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{320, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/Banners/Darkify.png?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/Banners/Darkify.png"
+							}
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
 				},
 				{
 					"class": "DepictionMarkdownView",
