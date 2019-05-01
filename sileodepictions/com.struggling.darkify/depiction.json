@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## TWEAK_NAME\nSHORT_DESCRIPTION"
+					"markdown": "## Darkify\nA nice dark theme for all devices."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,32 +19,32 @@
 				},
 				{
 					"title": "Version",
-					"text": "VERSION_NUMBER",
+					"text": "0.2-1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "RELEASE_DATE",
+					"text": "4/1/19",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Price",
-					"text": "PRICE",
+					"text": "FREE",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "DEVELOPER_NAME",
+					"text": "Struggling Doge",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Website",
-					"action": "WEBSITE_HERE",
+					"action": "https://thestrugglingdoge.github.io/repo",
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"title": "Darkify",
-					"action": "https://github.com/sukarodo/Sidia",
+					"title": "Github Repo",
+					"action": "https://github.com/thestrugglingdoge/repo",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -62,18 +62,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "VERSION_NUMBER",
+					"title": "0.2-1",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 UPDATE_DESCRIPTION",
+					"markdown": "\t\n\u2022 Adds 35+ new icons.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released RELEASE_DATE</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4/7/19</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
