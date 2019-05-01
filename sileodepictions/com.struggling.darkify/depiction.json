@@ -12,8 +12,8 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/Banners/Darkify.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/Banners/Darkify.png"
+							"url": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png"
 						}
 					],
 					"ipad": {
@@ -22,8 +22,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/Banners/Darkify.png?size=640",
-								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/Banners/Darkify.png"
+								"url": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png"
 							}
 						],
 						"class": "DepictionScreenshotView"
