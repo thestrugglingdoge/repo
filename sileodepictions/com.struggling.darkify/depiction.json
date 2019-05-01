@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/sukarodo/Sidia/master/assets/Banners/RepoHeader.png",
-	"tintColor": "#ffae8e",
+	"headerImage": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/Banners/Darkify.png",
+	"tintColor": "#594d48",
 	"tabs": [
 		{
 			"tabname": "Details",
@@ -43,7 +43,7 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"title": "Use This Template",
+					"title": "Darkify",
 					"action": "https://github.com/sukarodo/Sidia",
 					"class": "DepictionTableButtonView"
 				},

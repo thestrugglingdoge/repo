@@ -1,16 +1,15 @@
-Package: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Version: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Architecture: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Maintainer: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Filename: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Size: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-MD5sum: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-SHA1: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-SHA256: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Section: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Description: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-SileoDepiction: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py or Manually Entered if Not In Tweaks `control` file.
-Depiction: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py or Manually Entered if Not In Tweaks `control` file.
-Installed-Size: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Name: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Priority: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
+Package: com.struggling.darkify
+Version: 0.2-1
+Section: Themes
+Maintainer: StrugglingDoge
+Architecture: iphoneos-arm
+Filename: ./debs/com.struggling.darkify.deb
+Size: 5049304
+MD5sum: 26ae12f083903e980dd00c176cf1d6f6
+SHA1: 61b6da01ca100c71cbe79dbaacd83194a1089afb
+SHA256: c84e321fead24a913391bbe71bd235113d447f177f407cde4c409323bc801469
+Description: Darkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons.
+Name: Darkify
+Author: StrugglingDoge
+Depiction: https://thestrugglingdoge.github.io/testrepo/depictions/?p=com.struggling.darkify
+SileoDepiction: https://thestrugglingdoge.github.io/testrepo/sileodepictions/com.struggling.darkify/depiction.json
