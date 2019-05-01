@@ -7,6 +7,16 @@
 			"tabname": "Details",
 			"views": [
 				{
+					"class": "DepictionScreenshotsView"
+					"screenshots": [
+						{
+							"https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png"
+						}
+					]
+					"itemCornerRadius": 2
+					"itemSize": {1920,1080}
+				},
+				{
 					"class": "DepictionMarkdownView",
 					"markdown": "## Darkify\nA nice dark theme for all devices."
 				},
