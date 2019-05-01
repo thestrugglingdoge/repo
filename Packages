@@ -14,3 +14,21 @@ Author: StrugglingDoge
 SileoDepiction: https://thestrugglingdoge.github.io/testrepo/sileodepictions/com.struggling.darkify/depiction.json
 Depiction: https://thestrugglingdoge.github.io/testrepo/depictions/?p=com.struggling.darkify
 Icon: https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/TweakIcons/darkifyicon.png
+
+Package: com.marcuszhou.NineAnimator
+Version: 1.0.3
+Section: Mutlimedia
+Maintainer: StrugglingDoge
+Depends: firmware (>=11.2)
+Architecture: iphoneos-arm
+Filename: ./debs/com.marcuszhou.NineAnimator.deb
+Size: 99002536
+MD5sum: fb6c906d427ac2a77ec23c5b5788384e
+SHA1: f60799af639f7562892c62d446e085b752f28f91
+SHA256: 2e6790f311c8b7d9930220625c3e3aa6260ec2e7a63cc94635a7e6ae02d7b376
+Description: A simple yet elegant way of waching anime on your favorite anime website. NineAnimator is a free and open source anime watching app for iOS. Currently it supports 9anime.ru and masterani.me.
+Name: NineAnimator
+Author: Marcus Zhou
+SileoDepiction: https://thestrugglingdoge.github.io/testrepo/sileodepictions/com.marcuszhou.NineAnimator/depiction.json
+Depiction: https://thestrugglingdoge.github.io/repo/depictions/?p=com.marcuszhou.NineAnimator
+Icon: https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/TweakIcons/nineanimpic.jpg

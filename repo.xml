@@ -5,10 +5,5 @@
             <url>https://twitter.com/CarsonKelley11</url>
             <iconclass>glyphicon glyphicon-user</iconclass>
         </link>
-        <link>
-            <name>Want to use this depiction template?</name>
-            <url>https://github.com/sukarodo/sidia</url>
-            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
-        </link>
     </footerlinks>
 </repo>

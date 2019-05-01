@@ -1,14 +1,14 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/Banners/Darkify.png",
-	"tintColor": "#594d48",
+	"tintColor": "#3f4042",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
 				{
 					"itemCornerRadius": 6,
-					"itemSize": "{160, 275.41333333333336}",
+					"itemSize": "{320, 275.41333333333336}",
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
@@ -63,7 +63,7 @@
 				},
 				{
 					"title": "Developer",
-					"text": "Struggling Doge",
+					"text": "StrugglingDoge",
 					"class": "DepictionTableTextView"
 				},
 				{
