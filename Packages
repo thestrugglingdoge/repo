@@ -4,7 +4,7 @@ Section: Themes
 Maintainer: StrugglingDoge
 Architecture: iphoneos-arm
 Filename: ./debs/com.struggling.darkify.deb
-Size: 4536876
+Size: 4536920
 MD5sum: e7afb25b6099249cb94182f36bd132bb
 SHA1: 0367b46511be3112133011c9730d311d08ad79e6
 SHA256: edcf94979c64c1dbaa1e56b181afdf26be4083f8aed62b4761b75cc480c46ac7
