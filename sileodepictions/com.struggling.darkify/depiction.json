@@ -32,7 +32,12 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Darkify\nA nice dark theme for all devices."
+					"markdown": "## Darkify\nDarkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons."
+				},
+				{
+					"title": "Suggest icons here!",
+					"action": "https://thestrugglingdoge.github.io/repo",
+					"class": "DepictionTableButtonView"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -43,12 +48,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "0.2-1",
+					"text": "0.2-2",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "4/1/19",
+					"text": "4/30/19",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -62,13 +67,8 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
-					"action": "https://thestrugglingdoge.github.io/repo",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"title": "Github Repo",
-					"action": "https://github.com/thestrugglingdoge/repo",
+					"title": "Github",
+					"action": "https://github.com/StrugglingDoge",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -86,7 +86,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "0.2-1",
+					"title": "0.2-2",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
@@ -97,7 +97,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4/7/19</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4/30/19</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
