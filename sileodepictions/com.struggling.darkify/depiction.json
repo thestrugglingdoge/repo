@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/Banners/Darkify.png",
+	"headerImage": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/Banners/Darkify.png",
 	"tintColor": "#3f4042",
 	"tabs": [
 		{
@@ -12,8 +12,8 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png"
+							"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png"
 						}
 					],
 					"ipad": {
@@ -22,8 +22,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png?size=640",
-								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png"
+								"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png"
 							}
 						],
 						"class": "DepictionScreenshotView"

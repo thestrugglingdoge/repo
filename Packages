@@ -11,9 +11,9 @@ SHA256: edcf94979c64c1dbaa1e56b181afdf26be4083f8aed62b4761b75cc480c46ac7
 Description: Darkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons.
 Name: Darkify
 Author: StrugglingDoge
-SileoDepiction: https://thestrugglingdoge.github.io/testrepo/sileodepictions/com.struggling.darkify/depiction.json
-Depiction: https://thestrugglingdoge.github.io/testrepo/depictions/?p=com.struggling.darkify
-Icon: https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/TweakIcons/darkifyicon.png
+SileoDepiction: https://thestrugglingdoge.github.io/repo/sileodepictions/com.struggling.darkify/depiction.json
+Depiction: https://thestrugglingdoge.github.io/repo/depictions/?p=com.struggling.darkify
+Icon: https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/TweakIcons/darkifyicon.png
 
 Package: com.marcuszhou.NineAnimator
 Version: 1.0.3
@@ -29,6 +29,6 @@ SHA256: 2e6790f311c8b7d9930220625c3e3aa6260ec2e7a63cc94635a7e6ae02d7b376
 Description: A simple yet elegant way of waching anime on your favorite anime website. NineAnimator is a free and open source anime watching app for iOS. Currently it supports 9anime.ru and masterani.me.
 Name: NineAnimator
 Author: Marcus Zhou
-SileoDepiction: https://thestrugglingdoge.github.io/testrepo/sileodepictions/com.marcuszhou.NineAnimator/depiction.json
+SileoDepiction: https://thestrugglingdoge.github.io/repo/sileodepictions/com.marcuszhou.NineAnimator/depiction.json
 Depiction: https://thestrugglingdoge.github.io/repo/depictions/?p=com.marcuszhou.NineAnimator
-Icon: https://raw.githubusercontent.com/thestrugglingdoge/testrepo/gh-pages/assets/TweakIcons/nineanimpic.jpg
+Icon: https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/TweakIcons/nineanimpic.jpg
