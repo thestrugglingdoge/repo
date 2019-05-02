@@ -1,8 +1,8 @@
-Origin: Struggling Doge Test Repo
-Label: Struggling Doge Test Repo
+Origin: Struggling Doge Repo
+Label: Struggling Doge Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: A small test repository to hold tweaks
+Description: A small repository to hold some of my own tweaks/themes and other apps
